@@ -1,8 +1,7 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+GitHub Repository Explorer
+GitHub Repository Explorer is a web app that allows users to search, filter, and explore trending GitHub repositories. It fetches data from GitHub’s API and displays key repository details like name, owner, description, stars, forks, and primary language. Users can search repositories by keyword, filter by language, and sort by stars or forks. The app provides a clean, user-friendly interface with responsive design, making it easy to explore popular open-source projects. Built using React and Axios, the app delivers a dynamic experience. It is fully customizable with the option to add features like dark mode or repository comparisons in the future.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies:
+React, GitHub API, Axios, CSS,tailwind
+Clone, install, and run with npm start.
